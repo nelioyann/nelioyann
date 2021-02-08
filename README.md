@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Ionic and React.js**
 
-- 👨‍💻 All of my projects are available at [https://yannicknana.fr](https://yannicknana.fr)
-
 - 💬 Ask me about **react, javascript**
 
-- ⚡ Fun fact **I have a ThisIsFine plushy and you should too ☕**
+- ⚡ Fun fact: **I have a ThisIsFine plushy and you should too ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
